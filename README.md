@@ -1,2 +1,2 @@
 # invie-github
-Primeros pasos en github
+Primeros pasos en github by @platzi
