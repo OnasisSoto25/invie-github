@@ -1,0 +1,4 @@
+# Descripción
+- [ ] frontend
+- [ ] backend
+
